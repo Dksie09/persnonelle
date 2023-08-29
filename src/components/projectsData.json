@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Jobwrite",
+        "description": "Challenging the traditional job search process, Jobwrite was build to offer job seekers a platform to get personalized job recommendations based on their GitHub profile. ",
+        "tags": [
+            "React",
+            "Appwrite",
+            "NLP"
+        ],
+        "links": [
+            {
+                "name": "Star my repo",
+                "url": "https://github.com/Dksie09/jobwriteYT"
+            },
+            {
+                "name": "Deployed App",
+                "url": "https://jobwrite-yt.vercel.app/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Slotlot",
+        "description": "Slotlot is a mobile app built to address the parking issues faced in India. It makes parking process a lot more easier by not only providing realtime details like lot availability but also automatically manages and assign slots upon vehicle entry.",
+        "tags": [
+            "Flutter",
+            "Firebase"
+        ],
+        "links": [
+            {
+                "name": "Star my repo",
+                "url": "https://github.com/Dksie09/SLOTLOT"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Holostry",
+        "description": "As a kid I hated chemistry, and I know I'm not alone. So I along with my friends, built Holostry - a hologram based learning app, so you can visualize chemical components in 3D and understand them better. Thus making chemistry easy and fun.",
+        "tags": [
+            "Flutter"
+        ],
+        "links": [
+            {
+                "name": "Star my repo",
+                "url": "https://github.com/Dksie09/Holostry"
+            }
+        ]
+    },
+    {
+        "id": "last",
+        "title": "See more ➤ ",
+        "description": "",
+        "tags": [],
+        "links": []
+    }
+]

@@ -1,0 +1,38 @@
+/* App.css */
+.shadow-purple-lg {
+    transition: box-shadow 0.3s ease;
+    /* Add a smooth transition effect */
+}
+
+.shadow-purple-lg:hover {
+    box-shadow: 0 0 20px rgba(128, 0, 128, 0.7);
+    /* Purple shadow color */
+}
+
+.mouse-trail-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    cursor: none;
+}
+
+.sparkle {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
+
+.cursor-trail {
+    position: absolute;
+    width: 10px;
+    height: 5px;
+    background-color: #ff0000;
+    /* Customize the trail color here */
+    border-radius: 5px;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+}
