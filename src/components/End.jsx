@@ -33,11 +33,11 @@ function End() {
         </a>
         <a href='mailto:dakshiegoel@gmail.com' target='_blank' rel='noopener noreferrer' className='icon-mail cursor-pointer transition-transform transform-gpu hover:scale-150'>
         </a>
-        <a href='link-to-your-linkedin' target='_blank' rel='noopener noreferrer' className='icon-linkedin cursor-pointer transition-transform transform-gpu hover:scale-150'>
+        <a href='https://www.linkedin.com/in/dakshi-goel/' target='_blank' rel='noopener noreferrer' className='icon-linkedin cursor-pointer transition-transform transform-gpu hover:scale-150'>
         </a>
         <a href='https://www.youtube.com/@dksie3256' target='_blank' rel='noopener noreferrer' className='icon-youtube cursor-pointer transition-transform transform-gpu hover:scale-150'>
         </a>
-        <a href='link-to-your-blog' target='_blank' rel='noopener noreferrer' className='icon-pencil cursor-pointer transition-transform transform-gpu hover:scale-150'>
+        <a href='https://duckwhocodes.hashnode.dev/' target='_blank' rel='noopener noreferrer' className='icon-pencil cursor-pointer transition-transform transform-gpu hover:scale-150'>
         </a>
         <a href='https://github.com/Dksie09' target='_blank' rel='noopener noreferrer' className='icon-github cursor-pointer transition-transform transform-gpu hover:scale-150'>
         </a>
